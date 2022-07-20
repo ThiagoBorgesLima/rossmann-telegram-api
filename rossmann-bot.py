@@ -14,9 +14,11 @@ TOKEN = '5363463446:AAHM8XF3SbuApzZ3EiQ-5nxNZmqONkwejIQ'
 # # get updates
 # https://api.telegram.org/bot5363463446:AAHM8XF3SbuApzZ3EiQ-5nxNZmqONkwejIQ/getUpdates
 
-# # Webhook
+# # Webhook local
 # https://api.telegram.org/bot5363463446:AAHM8XF3SbuApzZ3EiQ-5nxNZmqONkwejIQ/setWebhook?url=https://3c3230e3cc06b7.lhrtunnel.link
 
+# # Webhook Heroku
+# https://api.telegram.org/bot5363463446:AAHM8XF3SbuApzZ3EiQ-5nxNZmqONkwejIQ/setWebhook?url=https://rossmann-bot1-telegram.herokuapp.com/
 
 # # send message
 # https://api.telegram.org/bot5363463446:AAHM8XF3SbuApzZ3EiQ-5nxNZmqONkwejIQ/sendMessage?chat_id=2013711734&text=Hi Thiago, I am fine thks!
